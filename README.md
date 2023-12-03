@@ -1,7 +1,7 @@
 
 # Web Scraping and Sentiment Analysis
 
-This Project extracts text from some blogs posted by [BlackCoffer](https://insights.blackcoffer.com/) and analys\ze the sentiment of the text.
+This Project extracts text from some blogs posted by [BlackCoffer](https://insights.blackcoffer.com/) and analyze the sentiment of the text.
 
 This Project is developed using Python programming languages by utilising modules like BeautifulSoup(or bs4) and pandas.
 
